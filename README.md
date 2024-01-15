@@ -6,6 +6,6 @@ Source: chatgpt.15/1/2024
 Functional builds:
 - Build 2: 15/01/2024
 
-Usage: Run the script with "your source" and "your destination" parameters (script.ps1 "source" "dest"). You can edit the script in Notepad to handle multiple extensions. If you need assistance with common image extensions or have other queries, feel free to ask ChatGPT.
+Usage: Run the script with "your source" and "your destination" parameters (script.ps1 "source" "dest"). You can edit the script in Notepad to handle OTHER extensions that you would like. If you need assistance with common image extensions or have other queries, feel free to ask ChatGPT.
 
 Test: Able to move 10K jpg files from an SSD to an HDD in less than 30 seconds, with 67 subfolders.
