@@ -1,4 +1,4 @@
-#fast move or copy files script
+# fast move or copy files script
 This script is designed to quickly move or copy any file of your choice with high speed, utilizing PowerShell. It can handle multiple file extensions such as jpg, png, and more, which is not supported by the Windows search function. Please note that this project is not actively maintained.
 
 Source: chatgpt.15/1/2024
